@@ -1,0 +1,231 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {},
+    "prefix": "/Users/tutods/Developer/courses/treinaweb-multistack-#3"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "/Users/tutods/Library/pnpm/store/v3",
+    "virtualStoreDir": "/Users/tutods/Developer/courses/treinaweb-multistack-#3/node_modules/.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-import-resolver-typescript/2.7.1",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-import-resolver-typescript",
+      "rawSpec": "latest"
+    }
+  },
+  "5 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-import-resolver-typescript/2.7.1",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "6 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-config-airbnb/19.0.4",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-config-airbnb",
+      "rawSpec": "latest"
+    }
+  },
+  "7 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-airbnb/19.0.4",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "8 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-config-prettier/8.5.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-config-prettier",
+      "rawSpec": "latest"
+    }
+  },
+  "9 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-prettier/8.5.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "10 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-config-airbnb-typescript/17.0.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-config-airbnb-typescript",
+      "rawSpec": "latest"
+    }
+  },
+  "11 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-airbnb-typescript/17.0.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "12 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-import-resolver-typescript/2.7.1",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "found_in_store"
+  },
+  "13 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-prettier/8.5.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "found_in_store"
+  },
+  "14 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/eslint-config-airbnb-typescript/17.0.0",
+    "size": 6214,
+    "status": "started"
+  },
+  "15 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/eslint-config-airbnb/19.0.4",
+    "size": 20022,
+    "status": "started"
+  },
+  "16 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-config-next/12.1.6",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-config-next",
+      "rawSpec": "latest"
+    }
+  },
+  "17 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-next/12.1.6",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "18 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint/8.17.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint",
+      "rawSpec": "latest"
+    }
+  },
+  "19 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint/8.17.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "20 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-next/12.1.6",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "found_in_store"
+  },
+  "21 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-airbnb-typescript/17.0.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "fetched"
+  },
+  "22 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-airbnb/19.0.4",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "fetched"
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint/8.17.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "found_in_store"
+  },
+  "24 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-plugin-react/7.30.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-plugin-react",
+      "rawSpec": "latest"
+    }
+  },
+  "25 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-plugin-react/7.30.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "26 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-plugin-react/7.30.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "found_in_store"
+  },
+  "27 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-plugin-jsx-a11y/6.5.1",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-plugin-jsx-a11y",
+      "rawSpec": "latest"
+    }
+  },
+  "28 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-plugin-jsx-a11y/6.5.1",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "29 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-plugin-import/2.26.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-plugin-import",
+      "rawSpec": "latest"
+    }
+  },
+  "30 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-plugin-import/2.26.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "31 error pnpm": {
+    "code": "ERR_PNPM_FETCH_404",
+    "hint": "eslint-plugin-simple-imports-sort is not in the npm registry, or you have no permission to fetch it.\n\nNo authorization header was set for the request.",
+    "request": {
+      "url": "https://registry.npmjs.org/eslint-plugin-simple-imports-sort"
+    },
+    "response": {
+      "size": 0
+    },
+    "pkgName": "eslint-plugin-simple-imports-sort",
+    "spec": {
+      "fetchSpec": "latest",
+      "name": "eslint-plugin-simple-imports-sort",
+      "type": "tag"
+    },
+    "pkgsStack": [],
+    "err": {
+      "name": "pnpm",
+      "message": "GET https://registry.npmjs.org/eslint-plugin-simple-imports-sort: Not Found - 404",
+      "code": "ERR_PNPM_FETCH_404",
+      "stack": "pnpm: GET https://registry.npmjs.org/eslint-plugin-simple-imports-sort: Not Found - 404\n    at RetryOperation._fn (/Users/tutods/Library/pnpm/global/5/.pnpm/pnpm@7.1.7/node_modules/pnpm/dist/pnpm.cjs:84475:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
+    }
+  },
+  "32 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-plugin-unused-imports/2.0.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-plugin-unused-imports",
+      "rawSpec": "latest"
+    }
+  },
+  "33 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-plugin-unused-imports/2.0.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  },
+  "34 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-config-airbnb-typescript-prettier/5.0.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint-config-airbnb-typescript-prettier",
+      "rawSpec": "latest"
+    }
+  },
+  "35 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-config-airbnb-typescript-prettier/5.0.0",
+    "requester": "/Users/tutods/Developer/courses/treinaweb-multistack-#3",
+    "status": "resolved"
+  }
+}
